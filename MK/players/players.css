@@ -1,0 +1,46 @@
+*{
+ margin:0;
+ padding:0;
+ box_sizing:border-box;
+}
+.player-block{
+margin-top:40px;
+}
+.history{
+margin-bottom: 10px;
+}
+.history-block{
+border: 3px solid;
+padding-top:15px;
+padding-right:15px;
+padding-left: 15px;
+margin-left:300px;
+margin-right:300px;
+font-size: 18px;
+}
+.fight-ability{
+margin-bottom: 10px;
+}
+.fight-ability-block{
+border: 3px solid;
+padding-top:15px;
+padding-right:15px;
+padding-left: 15px;
+margin-top: -3px;
+margin-bottom: 40px;
+margin-left:300px;
+margin-right:300px;
+font-size: 18px;
+}
+.link{
+ position:fixed;
+ margin:0;
+ padding:0;
+ margin-left:50px;
+ font-size:20px;
+}
+.text{
+text-align:left;
+text-indent:25px;
+padding-bottom:15px;
+}

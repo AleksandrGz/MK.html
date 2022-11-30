@@ -1,0 +1,104 @@
+*{
+ margin:0;
+ padding:0;
+ box_sizing:border-box;
+}
+.img-mk{
+ display:flex;
+ justify-content:center;
+ margin-top: 50px;
+}
+h1{
+ margin-top: 15px;
+}
+h2{
+ color: red;
+ font-size: 45px;
+ margin-top: 10px ;
+}
+h3{
+ margin-top:20px;
+ margin-bottom:20px;
+}
+.players-list1{
+ display:flex;
+ justify-content:space-between;
+ margin-left: 60px;
+ margin-right: 60px;
+ margin-bottom: 30px;
+}
+.kai-block{
+ text-align: center;
+ margin-top: 105px;
+}
+.raiden-block{
+ text-align:center;
+}
+.shinnok-block{
+ text-align: center;
+ margin-top: 89px;
+}
+.liu-kang-block{
+ text-align: center;
+ margin-top: 137px;
+}
+.reptile-block{
+ text-align: center;
+ margin-top: 102px;
+}
+.players-list2{
+ display:flex;
+ justify-content:space-between;
+ margin-left: 40px;
+ margin-right: 60px;
+ margin-bottom: 30px;
+}
+.scorpion-block{
+text-align: center;
+}
+.jax-block{
+text-align: center;
+margin-top:18px;
+}
+.reiko-block{
+text-align: center;	
+margin-top:25px;
+}
+.johnny-cage-block{
+text-align: center;
+margin-top:19px;	
+}
+.jarek-block{
+text-align: center;	
+margin-top:15px;
+}
+.players-list3{
+ display:flex;
+ justify-content:space-between;
+ margin-left: 60px;
+ margin-right:30px;
+ margin-bottom:30px;
+}
+.tanya-block{
+text-align: center;	
+margin-top:12px;
+}
+.fujin-block{
+text-align: center;	
+margin-top:13px
+}
+.sub-zero-block{
+text-align: center;
+margin-top:20px
+}
+.quan-chi-block{
+text-align: center;	
+}
+.sonya-blade-block{
+text-align: center;	
+margin-top:7px
+}
+.goro-block{
+text-align: center;
+margin-bottom:30px;
+}
